@@ -317,7 +317,7 @@ img{
 }
 .contact__subtitle{
     font-size: var(--normal-font-size);
-    color: var(--first-color);
+    color: #35374B;
 }
 .contact__text{
     display: inline-block;
